@@ -8,4 +8,4 @@ Week | Assignment #/Name |
 3 | [Assignment 2: Usability Testing](https://docs.google.com/document/d/1HX96aPqkQ3-PZaDKUuxAauj3f70DSZBaPpjFUhk-A1U/edit?usp=sharing), [Video Link](https://drive.google.com/file/d/1jxYNHZyAKt7O8DE4CQfA781S-hFMlElH/view?usp=sharing), [Google Form](https://forms.gle/zMr8MCSfV8tP6eZdA)
 6 | [Assignment 5: Contextual Inquiry](https://docs.google.com/document/d/1NpJoW3JggpBTTpD1_ugwOeaOtFiguhHgeLnGVILiYB4/edit?usp=sharing), [User Data (Audio)](https://drive.google.com/file/d/1FLO_G4eoRW1ToXnaHl9rEk5D0gF4iqkE/view?usp=sharing), [Contextual Inquiry Guide Script](https://docs.google.com/document/d/1n49Y787chgiMShk1K8naWdHwt_6C0T_6OLFbyqgIbPY/edit?usp=sharing)
 7 | [Assignment 6](https://docs.google.com/document/d/1dZwfQXdsYkoPsO1rOHqX_17XcAJokDNV-0pmoV5-9uU/edit?usp=sharing) 
-8 | [High-Fidelity Prototype](https://haleyliang999285.invisionapp.com/prototype/ck3f1nhh500eqdp014c688idh/play)
+8 | [High-Fidelity Prototype](https://haleyliang999285.invisionapp.com/prototype/ck3qjautn000epo0175dawt82/play)
